@@ -4,3 +4,5 @@ MW_installer file to use
 Locations: 
 GUI.py: code for gui on tkinter
 Funcs.py: scripts for functions 
+
+V0.8 / for beta test
