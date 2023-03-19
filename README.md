@@ -1,4 +1,4 @@
-# mosplay
+# mosplay - automated script software for moswar
 V0.8.
 
 req: selenium, tkinter, chrome/chromium
