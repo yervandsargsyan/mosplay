@@ -1,8 +1,4 @@
-# mosplay1
-Scripted bot for moswar game 
-MW_installer file to use
-Locations: 
-GUI.py: code for gui on tkinter
-Funcs.py: scripts for functions 
-
-V0.8 / for beta test
+# mosplay
+req: selenium - pip3 install selenium
+V0.8
+run main from console, or build by pyinstaller - pip3 install pyinstaller
