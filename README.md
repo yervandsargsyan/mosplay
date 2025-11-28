@@ -1,5 +1,6 @@
 # mosplay - automated script software for moswar
-V0.8.
+V betta 1.1
+If you don't know what this project is about, it's better not to start it. Don't even try ։)
 
 req: selenium, tkinter, chrome/chromium
 
